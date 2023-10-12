@@ -1,15 +1,6 @@
-/*
-    
-selector {
-    property: value;
-    property: value;
-}
-
-*/
 
 p { 
-    color:blueviolet;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Times New Roman', Times, serif
 }
 
 ul {
