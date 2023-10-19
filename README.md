@@ -18,5 +18,7 @@ The purpose of this project is to provide access to, educate others on, and illu
         - The Afterlife of Slavery and Colonialism
     - Contact Me
 
-
+## Potential Titles for Project
+- black footnotes.
+- 
 
