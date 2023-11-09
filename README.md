@@ -20,5 +20,5 @@ The purpose of this project is to provide access to, educate others on, and illu
 
 ## Potential Titles for Project
 - black footnotes.
-- 
+-
 

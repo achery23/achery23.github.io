@@ -1,8 +1,50 @@
-
-p { 
-    font-family: 'Times New Roman', Times, serif
+* {
+    box-sizing: border-box;
 }
 
-ul {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+img {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
+
+body {
+    font-family: 'Barlow', sans-serif;
+}
+
+header {
+    font-family: 'Julius Sans One', sans-serif;
+    float: left;
+    width: 35%;
+    padding: 40px; 
+    text-align:center;
+}
+header nav {
+    margin: 40px 0;
+}
+header a {
+    display:block;
+    color: #333;
+    text-decoration: none;
+    padding: 10px;
+}
+
+header a:visited {
+    color: #333;
+}
+header a:hover,
+header a:focus {
+    color: #999;
+}
+header a:active {
+    color: #333;
+}
+header a.selected {
+    color:#999;
+}
+main {
+    float: left;
+    width: 60%;
+    max-width: 600px;
+    padding: 40px;
 }
