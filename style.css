@@ -1,7 +1,9 @@
 * {
     box-sizing: border-box;
 }
-
+html {
+    background-color: rgb(207, 180, 194);
+}
 img {
     max-width: 100%;
     width: auto;
@@ -35,12 +37,13 @@ header a:visited {
 header a:hover,
 header a:focus {
     color: #999;
+   
 }
 header a:active {
     color: #333;
 }
 header a.selected {
-    color:#999;
+    color: rgba(0,0,0,.5);
 }
 main {
     float: left;

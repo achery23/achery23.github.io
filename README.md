@@ -9,16 +9,16 @@ The purpose of this project is to provide access to, educate others on, and illu
 ## Features
 
 - Pages for the following content:
-    - About Me
-    - CV (maybe)
+    - About
     - Reading Lists (or Working Libraries)
         - Black and Caribbean Women Writers 
         - Black and Caribbean Feminisms
         - Race, Gender, and Disability Studies
         - The Afterlife of Slavery and Colonialism
-    - Contact Me
+    - Digital Humanities
+    - Contact
 
 ## Potential Titles for Project
 - black footnotes.
--
+ 
 
