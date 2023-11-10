@@ -10,12 +10,18 @@ img {
     height: auto;
 }
 
+figcaption {
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 13.5px;
+    font-style: italic;
+}
 body {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Playfair Display', sans-serif;
 }
 
 header {
-    font-family: 'Julius Sans One', sans-serif;
+    font-family: 'Cormorant Garamond', sans-serif;
+    font-size: 25px;
     float: left;
     width: 35%;
     padding: 40px; 
@@ -23,6 +29,7 @@ header {
 }
 header nav {
     margin: 40px 0;
+    font-size: 20px;
 }
 header a {
     display:block;
@@ -36,14 +43,14 @@ header a:visited {
 }
 header a:hover,
 header a:focus {
-    color: #999;
+    color: white;
    
 }
 header a:active {
-    color: #333;
+    color: #999;
 }
 header a.selected {
-    color: rgba(0,0,0,.5);
+    color: rgba(255, 255, 255, 0.9);
 }
 main {
     float: left;
