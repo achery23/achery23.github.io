@@ -4,33 +4,36 @@
 html {
     background-color: rgb(207, 180, 194);
 }
+
 img {
-    max-width: 100%;
+    max-width: 125%;
     width: auto;
     height: auto;
 }
 
 figcaption {
     font-family: 'Playfair Display', sans-serif;
-    font-size: 13.5px;
+    font-size: 17px;
     font-style: italic;
 }
 
 body {
     font-family: 'Playfair Display', sans-serif;
+    font-size: 18px;
+    text-align: justify;
 }
 
 header {
     font-family: 'Cormorant Garamond', sans-serif;
-    font-size: 25px;
+    font-size: 30px;
     float: left;
-    width: 35%;
+    width: 40%;
     padding: 40px; 
     text-align:center;
 }
 header nav {
     margin: 40px 0;
-    font-size: 20px;
+    font-size: 25px;
 }
 header a {
     display:block;
@@ -55,7 +58,7 @@ header a.selected {
 }
 main {
     float: left;
-    width: 60%;
+    width: 80%;
     max-width: 600px;
     padding: 40px;
 }
